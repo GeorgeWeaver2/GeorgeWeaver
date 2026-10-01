@@ -8,7 +8,7 @@ Currently studying for AZ-104 (Azure Administrator), and MD-102 (Endpoint Admini
 
 ### Projects
 
-### [Windows Test Domain] (https://github.com/GeorgeWeaver2/WindowsTestDomain)
+### [Windows Test Domain](https://github.com/GeorgeWeaver2/WindowsTestDomain)
 A Windows Server lab built to mirror a small enterprise environment. Covers bulk user creation from CSV, group-based access control, delegated help desk roles, and DHCP scope design with DC exclusions, DNS options, and printer reservations. Printers are deployed as either GPOs for users that are in 1 building or as desktop shortcuts for roaming users.
 
 Tools and Technologies used:
